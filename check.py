@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Script de comprobación de entrega de ejercicio
+Script de comprobacion de entrega de ejercicio
 
 Para ejecutarlo, desde la shell:
  $ python check.py login_github
